@@ -1,3 +1,10 @@
+
+body {
+  background-color: #dde2e7;
+  font-family: Arial, sans-serif;
+}
+
+
 .effect p{
     color: #000;
     font-weight: 400;
@@ -28,10 +35,6 @@
     font-size: 20px;
  }
 
- body {
-    background-color: #dde2e7;
-    font-family: Arial, sans-serif;
-  }
   
   .container-fluid.bg-primary {
     background-color: #979af4;
@@ -152,7 +155,7 @@
 }
 
 .footer ul li a:hover {
-  color: #000; /* Hover color */
+  color: #fff;
 }
 
 .footer .social img {
